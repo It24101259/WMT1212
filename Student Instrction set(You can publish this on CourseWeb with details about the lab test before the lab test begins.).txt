@@ -1,0 +1,15 @@
+Important Notice – Lab Test Preparation
+
+Dear Students,
+
+Please ensure that you are prepared with the following requirements before attending the lab test:
+
+A working GitHub account (SLIIT or personal) with the ability to create and manage public repositories
+Basic knowledge of uploading a project to GitHub
+A working MongoDB Atlas account and ability to obtain a connection URL
+Ability to run MERN, frontend and backend projects
+Basic understanding of frontend deployment (e.g., Netlify, Vercel or another equivalent services)
+Basic understanding of backend deployment (e.g., Railway, Render or another equivalent services)
+Knowledge of connecting deployed frontend and backend systems (updating API URLs after deployment)
+
+Note: Students are expected to be familiar with the above concepts. No time will be allocated during the lab test to cover these basics
