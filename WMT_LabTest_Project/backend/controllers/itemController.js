@@ -7,7 +7,7 @@ export const getItems = async (req, res) => {
   } catch (error) {
     res.status(500).json({ message: "Failed to fetch items" });
   }
-};
+}; 
 
 export const getItemById = async (req, res) => {
   try {
